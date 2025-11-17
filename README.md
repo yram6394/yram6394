@@ -18,7 +18,7 @@
 
 ### 🛠️ Skills  
 **Frontend:**  
-- HTML • CSS • JavaScript • React.js • Tailwind • Bootstrap  
+- HTML • CSS • JavaScript  • Bootstrap  
 
 **Backend:**  
 - Node.js • Express.js  
@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Connect With Me  
-- 📧 Email: **your-email@email.com**  
+- 📧 Email: **yram19139@gmail.com**  
 - 💼 LinkedIn: *your-link*  
 
 ---
