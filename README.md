@@ -3,7 +3,7 @@
  I am full-stack  Web developer 👈 👈 
 
 
-<h1 align="center">Hi 👋, I'm [Ram Yadv]</h1>
+<h1 align="center">Hi 👋, I'm Ram Yadav</h1>
 <h3 align="center">BCA Student | MERN Stack Learner | Coding Enthusiast</h3>
 
 ---
