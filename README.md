@@ -1,10 +1,8 @@
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Developer+%7C+Programmer+%7C+Creator;Welcome+to+my+GitHub+Profile!" />
+</p>
 
- 
- <!-- Header Section -->
-<div align="center">
-  
-  <!-- Animated Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF4B4B&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;Enjoy+the+Design+✨" />
+
 
   <!-- Animated GIF -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
