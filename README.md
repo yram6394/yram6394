@@ -1,4 +1,7 @@
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer+🚀;Welcome+to+my+GitHub+Profile!" />
+</h1>
+
  
  <h1 align="center">
   Hi 👋, I'm Ram Yadav
