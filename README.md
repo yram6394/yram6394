@@ -22,10 +22,6 @@
 
 ---
 
-<!-- Main Stats -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<
 
 ## 🎬 Animated GIF  
 <p align="center">
