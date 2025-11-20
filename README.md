@@ -34,9 +34,7 @@
 ## 📊 GitHub Stats (Animated)
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true" width="500" />
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
 
 </div>
