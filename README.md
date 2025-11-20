@@ -1,3 +1,9 @@
+
+ 
+ <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&lines=Developer;Designer;Coder;Tech+Lover" />
+
+ 
+ 
  Hi there everyone my name is Ram Yadav 
  
  I am full-stack  Web developer 👈  
