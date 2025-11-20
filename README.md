@@ -48,15 +48,12 @@
 
 ## 💬 Contact Me
 
-📩 Email: youremail@example.com  
-📱 Instagram: yourusername  
-🌐 Website: www.yoursite.com  
+📩 Email: yram19139@gmail.com  
+📱 Instagram: offiial_ram7877  
+
 
 ---
 
-## ⭐ If you like this animated style, give it a star!
-
----
 
 ### Chaho to main ye layout **custom design**, **color theme**, ya **name-based animated header** ke sath aapke liye modify bhi kar sakta hoon.
 
