@@ -28,14 +28,6 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
 </p>
 
----
-
-## 🌀 Contribution Animation  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
 
 ## 🎬 Animated GIF  
 <p align="center">
