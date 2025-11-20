@@ -1,3 +1,12 @@
+
+ 
+ <h1 align="center">
+  Hi 👋, I'm Your Name
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Lover+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
+
+ 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Developer+%7C+Programmer+%7C+Creator;Welcome+to+my+GitHub+Profile!" />
 </p>
