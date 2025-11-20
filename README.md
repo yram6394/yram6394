@@ -1,60 +1,54 @@
+<!-- Animated Title -->
 <h1 align="center">
-  नमस्ते 🙏, मैं हूँ <span style="color:#00A8E8;">Ram Yadav</span>  
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer+🚀;Welcome+to+my+GitHub+Profile!" />
+  👋 Hi, I'm <span style="color:#0acffe;">Your Name</span>
 </h1>
 
-## 🚀 About Me
-- 🎨 I love creative UI/UX  
-- 💻 Coding + Animation obsessed  
-- 🌐 Open-source contributor  
-- ⚡ Always building something new  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40F9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Full-Stack+Developer;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!+🚀" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  
-</div>
+## ⚡ About Me
+- 🌱 Learning **Next.js | Node.js | Python**
+- 🔭 Working on **Cool Projects**
+- 💬 Ask me about **Web Development & APIs**
+- 🎯 Goal: **Build awesome products**
 
 ---
 
-## 📊 GitHub Stats (Animated)
-
-
----
-
-## 🎞 Animated Banner
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="600" />
-
-</div>
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,tailwind,git,github,mongodb,vscode&theme=dark" />
+</p>
 
 ---
 
-## 💬 Contact Me
-
-📩 Email: yram19139@gmail.com  
-📱 Instagram: official_ram7877  
-
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
+## 🌀 Contribution Animation  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" />
+</p>
 
-### Chaho to main ye layout **custom design**, **color theme**, ya **name-based animated header** ke sath aapke liye modify bhi kar sakta hoon.
+---
 
-Kya aapko **personal name**, **shop name**, ya **project name** ke hisaab se animated layout chahiye?
+## 🎬 Animated GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
 
+---
 
-
- 
- 
- 
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+</p>
