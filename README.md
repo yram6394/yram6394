@@ -4,7 +4,7 @@
 <div align="center">
   
   <!-- Animated Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF4B4B&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;This+is+Animated+README;Enjoy+the+Design+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF4B4B&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;Enjoy+the+Design+✨" />
 
   <!-- Animated GIF -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
