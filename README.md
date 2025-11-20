@@ -33,11 +33,6 @@
 
 ## 📊 GitHub Stats (Animated)
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
-
-</div>
 
 ---
 
