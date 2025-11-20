@@ -22,12 +22,10 @@
 
 ---
 
-## 📊 GitHub Stats (Animated)  
+<!-- Main Stats -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
-</p>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<
 
 ## 🎬 Animated GIF  
 <p align="center">
