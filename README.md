@@ -2,7 +2,7 @@
 <h1 align="center">🔥 Welcome to My GitHub Profile 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Your+Name;Full+Stack+Developer;Open+Source+Contributor;Tech+Lover+%F0%9F%9A%80;Nice+to+meet+you!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Ram+Yadav;Full+Stack+Developer;Open+Source+Contributor;Tech+Lover+%F0%9F%9A%80;Nice+to+meet+you!" />
 </p>
 
 ---
