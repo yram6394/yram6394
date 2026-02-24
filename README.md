@@ -1,33 +1,52 @@
-<!-- Animated Header -->
-<h1 align="center">🔥 Welcome to My GitHub Profile 🔥</h1>
+# Hi 👋, I'm [Your Name]
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Ram+Yadav;Full+Stack+Developer;Open+Source+Contributor;Tech+Lover+%F0%9F%9A%80;Nice+to+meet+you!" />
-</p>
+### 💻 Full Stack Developer | Open Source Contributor | Problem Solver
 
----
-
-## 👨‍💻 About Me
-- 🚀 I love creating interactive & modern web apps  
-- 🌱 Currently learning **Next.js, DevOps & AI Tools**  
-- 💬 Ask me about **Web Dev, UI/UX, APIs**  
-- ⚡ Fun Fact: **I fix bugs faster when I drink coffee ☕**  
+- 🔭 I’m currently working on: **[Your Current Project]**
+- 🌱 I’m currently learning: **[Tech/Framework Name]**
+- 👯 I’m looking to collaborate on: **Open Source Projects**
+- 💬 Ask me about: **JavaScript, React, Node.js, APIs**
+- 📫 How to reach me: **your@email.com**
+- ⚡ Fun fact: I love building scalable web apps
 
 ---
 
-## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,python,tailwind,git,github,vscode&theme=dark" />
-</p>
+## 🌐 Connect with me:
+[LinkedIn](your-link) | [Portfolio](your-link) | [Twitter](your-link)
 
 ---
 
+## 🛠️ Tech Stack:
 
-## 🎬 Animated GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
-</p>
+**Frontend:**  
+HTML | CSS | JavaScript | React | Tailwind  
+
+**Backend:**  
+Node.js | Express | REST APIs  
+
+**Database:**  
+MongoDB | MySQL  
+
+**Tools:**  
+Git | GitHub | VS Code | Postman  
 
 ---
 
-## 🌍 Connect With Me  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Project Name
+Short description of your project.  
+👉 Live Demo: [Link]  
+👉 Source Code: [Repo Link]
+
+---
+
+⭐️ From [Your Name]
