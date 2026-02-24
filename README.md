@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hi 👋, I'm [Ram Yadav]
+  Hi 👋, I'm Ram Yadav
 </h1>
 <h3 align="center">
-  Junior Full Stack Developer | Building Real-World Web Applications
+   Full Stack Developer | Building Real-World Web Applications
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Building+Scalable+Web+Apps;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Hi I am Ram Yadav+Full+Stack+Developer;Building+Scalable+Web+Apps;Learning+Every+Day" />
 </p>
 
 - 🔭 Currently working on: **[Your Key Project]**  
