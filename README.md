@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Hi+Full+Stack+Developer;Building+Scalable+Web+Apps;Learning+Every+Day" />
 </p>
 
-- 🔭 Currently working on: **[Your Key Project]**  
+- 🔭 Currently working on: ****  
 - 🌱 Learning: **React Advanced Patterns / Node.js Optimization**  
 - 💬 Comfortable with: **JavaScript, React, Node.js, REST APIs**  
 - 🎯 Goal: Become a skilled Full Stack Engineer
