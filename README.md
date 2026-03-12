@@ -22,7 +22,7 @@
 - 🔭 Currently working on: ****  
 - 🌱 Learning: **React Advanced Patterns / Node.js Optimization**  
 - 💬 Comfortable with: **JavaScript, React, Node.js, REST APIs**  
-- 🎯 Goal: Become a skilled Full Stack Engineer
+- 🎯 Goal: Become a skilled Full Stack Developer
 
 ---
 
